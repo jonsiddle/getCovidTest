@@ -1,0 +1,35 @@
+{
+	"browser": "firefox",
+	"forename": "REPLACE",
+	"surname": "REPLACE",
+	"mobile": "REPLACE",
+	"email": "REPLACE",
+	"postcode": "REPLACE",
+	"dobDay": "REPLACE",
+	"dobMonth": "REPLACE",
+	"dobYear": "REPLACE",
+	"landline": "REPLACE",
+	"gender": "REPLACE",
+
+	"additional": [
+		{
+			"forename": "REPLACE",
+			"surname": "REPLACE",
+			"dobDay": "REPLACE",
+			"dobMonth": "REPLACE",
+			"dobYear": "REPLACE",
+			"gender": "REPLACE"
+		},
+		{
+			"forename": "REPLACE",
+			"surname": "REPLACE",
+			"dobDay": "REPLACE",
+			"dobMonth": "REPLACE",
+			"dobYear": "REPLACE",
+			"gender": "REPLACE"
+		}],
+
+	"symptomDay": "REPLACE",
+	"symptomMonth": "REPLACE",
+	"symptomYear": "REPLACE"
+}
